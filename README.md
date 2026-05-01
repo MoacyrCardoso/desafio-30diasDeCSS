@@ -12,3 +12,5 @@
 [Dia 06 - Efeito lightning text]
 
 [Dia 07 - Preloader animado]
+
+[Dia 08 - Coração batendo]
