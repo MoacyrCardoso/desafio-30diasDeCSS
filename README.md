@@ -20,3 +20,5 @@
 [Dia 10 - Animação texto alternando]
 
 [Dia 11 - Botão com efeito hover]
+
+[Dia 12 - Efeito de preenchimento ao passar o mouse]
