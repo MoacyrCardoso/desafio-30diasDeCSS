@@ -22,3 +22,5 @@
 [Dia 11 - Botão com efeito hover]
 
 [Dia 12 - Efeito de preenchimento ao passar o mouse]
+
+[Dia 13 - Loading com efeito]
