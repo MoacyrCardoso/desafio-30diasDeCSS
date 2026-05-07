@@ -24,3 +24,5 @@
 [Dia 12 - Efeito de preenchimento ao passar o mouse]
 
 [Dia 13 - Loading com efeito]
+
+[Dia 14 - Fundo de texto animado]
