@@ -32,3 +32,5 @@
 [Dia 16 - Botão com efeito]
 
 [Dia 17 - Loader animado]
+
+[Dia 18 - Texto esfumaçado]
