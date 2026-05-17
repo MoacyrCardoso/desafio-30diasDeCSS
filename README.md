@@ -45,6 +45,8 @@
 
 [Dia 23 - Botão com efeito hover]
 
+[Dia 24 - Preloader animado]
+
 
 
 
